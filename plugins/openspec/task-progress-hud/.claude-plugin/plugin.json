@@ -1,0 +1,10 @@
+{
+  "name": "task-progress-hud",
+  "version": "0.1.0",
+  "description": "Shows done, percent and remaining tasks of the current OpenSpec change.",
+  "author": {
+    "name": "Liam Mitchell"
+  },
+  "keywords": ["openspec", "tasks", "progress", "hud"],
+  "types": "./types/index.d.ts"
+}

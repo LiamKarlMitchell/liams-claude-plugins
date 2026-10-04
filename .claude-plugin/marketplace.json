@@ -1,0 +1,25 @@
+{
+  "name": "liams-claude-plugins",
+  "owner": {
+    "name": "Liam Mitchell"
+  },
+  "metadata": {
+    "description": "Liams Claude Code plugins.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "task-progress-hud",
+      "source": "./plugins/openspec/task-progress-hud",
+      "description": "Shows done, percent and remaining tasks of the current OpenSpec change.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": [
+        "openspec",
+        "tasks",
+        "progress",
+        "hud"
+      ]
+    }
+  ]
+}
